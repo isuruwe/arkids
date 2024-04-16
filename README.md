@@ -1,16 +1,6 @@
 # arkids
+AR Kids 3D Models
+Introducing "AR Kids 3D Models" - a captivating and educational mobile app designed to ignite your child's imagination through the magic of augmented reality and interactive 3D models.
+Interactive 3D Models: Watch as your child's favorite animals, historical figures, and objects transform into vibrant 3D models that they can interact with and examine from every angle. Whether it's a roaring T-Rex, the solar system, or famous landmarks, the app brings education to life.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://play.google.com/store/apps/details?id=icw.wsc.snw.arkids.arkids&hl=en&gl=US
